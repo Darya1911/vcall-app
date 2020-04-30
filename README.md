@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Visit the deployed site here - https://daryas-vchat-app.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
